@@ -1,0 +1,3 @@
+track the input of the coins to the gameboard.
+upon the adding of a coin the method gameOver() will check whether the last inputted coin is able to put the game in a game over state.
+start checking in a circular fashion recursively.
